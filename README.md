@@ -17,6 +17,19 @@ Report the following:
 - The word with maximum frequency for each month (hint: to read only a month’s articles you can use ‘*’. E.g. for February ‘2012-02*’ represents all files starting with 2012-02,i.e. files belonging to Feb).
 - The list of words appeared on ‘2012-09-01’ but not on ‘2012-08-01’.
 - Frequency of the word ‘monsoon’ for all months.
+
+Assignment_3:
+- Using Spark MLlib build a model to predict taxi fare from trip distance.
+- Using Spark MLlib build a model to predict taxi fare from trip distance and trip duration in minutes.
+* What is the fare of a 20-mile-long trip using M1
+* What is the fare of a 14-mile trip that took 75 minutes using M2
+* Which fare is higher 10 mile trip taking 40 min or 13 mile trip taking 25 min?
+- Using Spark operations (transformation and actions) compute the average tip amount
+- During which hour the city experiences the most number of trips? E.g. 10 am-11 am or 4 pm-5 pm
+- Compare Spark’s performance
+* Divide the data into 10 parts: 10%, 20%, …, 100%
+* Plot the time taken by each method and save it in PNG format (or display the plot if you are using Jupyter Notebook or Google Colab).
+
   
 Lab_2:
 Compute incoming edges using spark functions
