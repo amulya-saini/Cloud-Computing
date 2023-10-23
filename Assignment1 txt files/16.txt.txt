@@ -1,0 +1,12 @@
+Through the 1970s and 1980s, much of the social informat-
+ics research focused on organizations because they were
+the major sites of computerization. It is only in the last few
+years that many people who are not themselves technical
+specialists have gotten computer systems for home use.
+The era of the Internet, or particularly public access to the
+Internet, raises issues of work at home, communication at
+home, entertainment, access to medical information, and
+other personal uses. These are significant phenomena, but
+are different from the topics I will emphasize. They are part
+of social informatics, but they open up different lines of
+analysis that warrant serious study and understanding.
