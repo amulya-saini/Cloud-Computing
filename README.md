@@ -52,3 +52,46 @@ Write a program that will listen to an input continuous text stream and output w
 2. the word contains 'a' or endswith 'r'
 
 3. the frequency is greater 2 and less than 10
+
+Lab_5:
+part a:
+The following file contains information about permits issued to export wildlife items/products.
+wildlife_trade.csv
+Use SparkSQL and other Spark utilities to answer the following question
+
+1. what is the most frequent Class of animal traded
+
+2. List all the items (Term) traded that are associated with Mammals
+
+3. List all CITES Appendix II species
+
+4. What is the most common animal (Taxon) traded in 2017?
+
+5. List all the Classes of animals where the following items are traded
+
+   a) teeth
+
+   b) live
+
+   c) carvings
+
+part b:
+Data: graph data.csv
+
+This is a directed graph with 25 nodes (node 1 to node 25)
+
+Read and store the data as an adjacency list (use RDD or DataFrame).
+
+Use Spark/SparkSQL functionalities to answer the following questions.
+
+Questions:
+
+1. Find all self-loops (i.e. edge between a node onto itself)
+
+2. Node with the largest out-degree
+
+3. Node with the larges in-degree
+
+4. Find the distribution of vertices in-degrees
+
+5. Find a path between node 1 to node 9 [output: a list of nodes that connects 1 and 9]
